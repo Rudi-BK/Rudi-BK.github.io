@@ -9,4 +9,10 @@ Albert Einstein gilt als Inbegriff des Forschers und Genies. Er nutzte seine auÃ
 * allgemeine RelativitÃ¤tstheorie
 * Nobelpreis: photoelektrischer Effekt
 
+Zitat Albert Einstein:
+
+> Zwei Dinge sind unendlich, das Universum und die menschliche 
+> Dummheit, aber bei dem Universum bin ich mir noch nicht ganz 
+> sicher.
+
 
